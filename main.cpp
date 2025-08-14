@@ -1,7 +1,7 @@
 /*
 --> Author 1: Mohammed Atef Abd EL-Kader.
-    --> ID: 20231143        --> Email: mohamed45452020@gmail.com
-    --> Ciphers: Route Cipher, Vignere Cipher, Polybius Square Cipher and Morse Cipher.
+    --> ID: 20231143        --> Email: abhay9761607965@gmail.com
+    --> Ciphers: Affine Cipher, XOR Cipher and Rail Fence Cipher.
 
 --> Author 2: Esraa Emary Abd El-Salam.
     --> ID: 20230054        --> Email: esraaemary33@gmail.com
@@ -9,6 +9,7 @@
 
 --> Author 3: Aly El-Deen Yasser Aly.
     --> ID: 20230054        --> Email: aibakgaming747@gmail.com
+    Ciphers: Route Cipher, Vignere Cipher, Polybius Square Cipher and Morse Cipher.
     --> Ciphers: Affine Cipher, XOR Cipher and Rail Fence Cipher.
 
 --> Purpose: this program is for encryption and decription your important information like your password, ID, etc.
